@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController
 {
+    var khamokha:Int = 0;
     var numberOnScrenn:Double = 0;
     var previousnumber:Double = 0;
     var performingMath = false
